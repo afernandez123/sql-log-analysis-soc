@@ -6,10 +6,6 @@
 [![Status](https://img.shields.io/badge/Status-Completed-brightgreen)]()
 [![Language](https://img.shields.io/badge/Language-SQL-lightgrey)]()
 
-
-
-# SQL Log Analysis (SOC Simulation)
-
 This project simulates the type of log analysis a Tier 1 Security Operations Center (SOC) Analyst would perform when investigating suspicious user activity.
 
 ## What It Does
